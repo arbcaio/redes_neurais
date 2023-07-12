@@ -1,3 +1,3 @@
 # redes_neurais
 
-Projeto de redes neurais - 2023.1
+Projeto de Redes Neurais - 2023.1
